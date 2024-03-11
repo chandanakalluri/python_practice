@@ -1,3 +1,4 @@
 
-from python_assignment.src.assignment1.util import cal_avg
-cal_avg()
+n=int input()
+res=filter(labda x:x*n)(2)
+print(res)
