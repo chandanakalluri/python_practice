@@ -10,7 +10,7 @@ print(type(c))
 d=int(c)
 print(d)
 print(type(d))
-#converting built-in data types
+#converting built-in data typess
 l=[1,2,3,4]
 l1=set(l)
 print(type(l1))

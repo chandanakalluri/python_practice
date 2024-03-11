@@ -22,7 +22,7 @@ s.discard(12)
 print(s,"discarding ele")
 s.update({1,5,7})
 print(s,"updating the set")
-print("built in functions in tuple")"""
+print("built in functions in tuple")"""#
 t=(40,5,60,5)
 print("5 comes",t.count(5),"times")
 print(sorted(t))
